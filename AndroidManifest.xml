@@ -1,3 +1,4 @@
+//Provide essential information about our app to the Android System,which the system must have before it can run anyof the app's code// 
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.scanner">
