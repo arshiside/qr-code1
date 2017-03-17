@@ -12,3 +12,4 @@ Language: Java
 Database: SQLite 
 Operating System: MAC OS X
 My project partner- Arshad Ansari(130101048),Monu Anand(130101104),Mohammad Arshi Siddique(130101099).
+https://github.com/arshiside/QRCode.git
